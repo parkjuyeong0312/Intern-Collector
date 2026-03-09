@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Spring Boot
+*.jar
+*.war
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+application-local.yml
+
+# OS
+.DS_Store
+Thumbs.db
